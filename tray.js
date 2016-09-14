@@ -15,6 +15,5 @@ app.on('ready', () => {
     ])
     tray.setToolTip('This is my application.')
     tray.setContextMenu(contextMenu)
-    console.log(tray)
 })
 
