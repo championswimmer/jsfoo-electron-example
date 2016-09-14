@@ -48,3 +48,4 @@ app.on('activate', () => {
 // code. You can also put them in separate files and require them here.
 
 require('./menu')
+require('./tray')
